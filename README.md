@@ -37,3 +37,19 @@ These represent a typical patient journey when booking and having an appointment
 
 ___
 
+### Steps
+1) Generated raw data by combining patient churn datasets from Kaggle and enriching data set using Google Gemini and Claude
+2) Cleaned data in Google Sheets using filtering to correct misspellings and functions like PROPER, TRIM, ABS, FLOOR, IF, LOWER, and REGEXREPLACE
+3) Performed funnel analysis and exploratory data analysis in MySQL by employing grouping and filtering, CASE statements, window functions (ROW_NUMBER(), RANK(), LEAD (), LAG()), common table expressions (CTEs), and subqueries
+
+___
+
+### Key Insights
+- Patients with longer appointment times are less likely to churn than patients with shorter appointment times. Patients with higher satisfaction scores are less likely to churn than patients with lower satisfaction scores.
+- The General Practice practice department has the most patients that only book once and do not return, most likely due to booking elsewhere that specifically treats their concern.
+- Older patients and patients with Medicare tend to have lower churn rate (of about 29%) than patients that are in younger age groups. Most patients come in from doing their own research and more patients churn when they are able to book elsewhere through ZocDoc.
+
+### Future Considerations
+- Utilizing Python to visual the funnel
+- Develop a Tableau or Power BI dashboard to present to stakeholders
+- Obtain more data such as outreach or response frequency to better analyze patient retention
