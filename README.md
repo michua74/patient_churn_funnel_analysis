@@ -46,8 +46,8 @@ ___
 
 ### Key Insights
 - Patients with longer appointment times are less likely to churn than patients with shorter appointment times. Patients with higher satisfaction scores are less likely to churn than patients with lower satisfaction scores.
-- The General Practice practice department has the most patients that only book once and do not return, most likely due to booking elsewhere that specifically treats their concern.
-- Older patients and patients with Medicare tend to have lower churn rate (of about 29%) than patients that are in younger age groups. Most patients come in from doing their own research and more patients churn when they are able to book elsewhere through ZocDoc.
+- The General Practice department specialty has the most patients that only book once and do not return, most likely due to booking elsewhere that specifically treats their concern.
+- Older patients and patients with Medicare tend to have lower churn rate (of about 29%) than patients that are in younger age groups and have different insurance providers. Most patients come in from doing their own research and more patients churn when they are able to book elsewhere through ZocDoc.
 
 ### Future Considerations
 - Utilizing Python to visual the funnel
