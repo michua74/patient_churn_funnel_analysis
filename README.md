@@ -25,5 +25,15 @@ The purpose of the project is to:
 - Common Table Expressions (CTEs) and Subqueries
 - CASE statements, Grouping, and filtering
 
+### Funnel Events Considered
+These represent a typical patient journey when booking and having an appointment.
+- Website_Visits
+- Page_Views
+- Booking_Time_Mins
+- Avg_Wait_Time_Mins
+- Avg_Appointment_Time_Mins
+- Total_Visits
+- Missed_Appointments
+
 ___
 
