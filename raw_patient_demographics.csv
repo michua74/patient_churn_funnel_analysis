@@ -1,0 +1,836 @@
+Patient_ID,First_Name,Last_Name,Age,Gender,State,Primary_Diagnosis,Department_Specialty,Insurance_Provider,Out_of_Pocket_YTD
+P0002,Charlotte,Garcia,32.0,female,TX,COPD,Pulmonolgy,BlueCross,1804
+P0003,reBeccA,Lopez,45.0,fEmale,CA,Lupas,Rheumatolgy,UnitedHealth,2858
+P0004,MarY,lee,50.0,fEmale,IL,Joint  Pain,Orthopedcis,UnitedHealth,2524
+P0005,harry,Brown,-21.0,mALE,NJ,C O P D,Pulmonology,UnitedHealth,2429
+P0006,Wendy,Davis,63.0,female,IL,Arthritiss,General Practice,Medicare,1269
+P0007,nancy,Ferguson,69.0,Female,PA,Arrhythmiaa,Cardiolgy,Medicare,3839
+P0007,nancy,Ferguson,69.0,Female,PA,Arrhythmiaa,Cardiolgy,Medicare,3839
+P0008,claiRe,ChaN,48.0,female,PA,Bronchitis,Pulm,UnitedHealth,1819
+P0009,John,Rodriguez,65.0,MALE,MN,Arthrits,Orthopedcis,Medicare,3827
+P0010,Alice,ng,68.0,fEmale,MA,Hypertnsion,Gen Practice,Medicare,454
+P0011,Greg,Johnson,71.0,Male,NJ,Arrhythmiaa,Cardiolgy,Medicare,4437
+P0012,Eva,Young,56.0,fEmale,CA,Arthritis,Rheumatolog,BlueCross,2421
+P0013,Frank,Little,73.0,MALE,TN,HyperTension,Cardiology,Medicare,3557
+P0014,Victor,PEREz,90.0,mALE,MA,Anxeity,Psych iatry,Medicare,962
+P0015,Fiona,Chen,81.0,fEmale,TX,Hyper thyroidism,Endo,Medicare,2711
+P0016,TiNA,zu,0.0,female,GA,Depressionn,Psychiatry,Aetna,1062
+P0017,John,Williams,57.0,MALE,CA,Migrane,Neuro,Cigna,2057
+P0018,Frnk,Rodriguez,66.0,MALE,CA,Osteoporosis,Ortho,Medicare,2822
+P0019,kylie,ng,55.0,fEmale,NY,Eczema,Dermatolgy,UnitedHealth,923
+P0020,keiith,Jackson,18.0,MALE,TX,C.O.P.D,Pulmonology,BlueCross,2187
+P0021,Frank,Doe,150.0,Male,VA,G E R D,GI,Medicare,2932
+P0022,natalie,Wu,64.0,Female,AZ,Osteoporsis,Orthopedic,Medicare,3324
+P0023,Charli,Rodriguez,21.0,Female,NY,Hypothyroidism,Endocrinlogy,UnitedHealth,1756
+P0024,victor,Lim,88.0,MALE,NY,Lupas,Rheum,Medicare,2527
+P0025,ava,Miler,85.0,fEmale,CA,Anxeity,Psychiatry,Medicare,1111
+P0026,Evan,Lee,999.0,MALE,CA,G E R D,Gastro enterology,Medicare,3007
+P0027,Hannah,Garcia,-76.0,Female,MI,GERD,General Practice,Aetna,573
+P0028,silvia,Baker,86.0,female,GA,Hyperthyroidsm,Endocrinolog,Medicare,1950
+P0029,Betty,Cooper,46.0,female,CA,Coronary Artery Disease,Cardiolgy,Aetna,4247
+P0030,gale,Little,52.0,Female,PA,Jiont Pain,Orthopedic,BlueCross,4451
+P0031,John,Johnson,79.0,MALE,IL,Arthrits,Gen Practice,Medicare,546
+P0032,Bob,Rodriguez,40.0,MALE,MA,Diabets,Genral Practice,UnitedHealth,1021
+P0033,lisa,Kim,38.0,Female,NJ,Osteoporosis,Orthopedcis,Cigna,3750
+P0034,John,Brown,40.0,Male,GA,Migraine,Neurolog,BlueCross,4906
+P0035,Greg,Smith,40.0,MALE,OH,Arthritiss,Gen Practice,Aetna,1225
+P0036,Grace,Rodriguez,79.0,fEmale,MN,Hypo thyroidism,Endocrinolog,Medicare,1667
+P0037,Bob,Miller,,Male,OR,Diabetes,Endo,BlueCross,2788
+P0038,zachary,Jonez,49.0,MALE,NY,Anxietty,Psych,UnitedHealth,446
+P0039,joshua,Rodriguez,43.0,mALE,FL,Anxietty,Psychiatri,BlueCross,1336
+P0040,paul,Jackson,88.0,Male,WA,Hypothyroidism,Endocrinology,Medicare,2235
+P0041,Alice,Rodriguez,75.0,Female,CA,Epilepsyy,Neurolog,Medicare,3247
+P0042,Jane,Johnson,73.0,fEmale,NY,Arthritiss,Rheumatolog,Medicare,3298
+P0043,katherine,Lee,55.5,Female,CA,Depression,Psychiatri,UnitedHealth,596
+P0044,pauline,Miller,62.0,Female,NY,Coronary Artery Disease,Cardiolgy,Medicare,4542
+P0045,Alice,Bush,41.0,female,CA,Anxietty,Psych iatry,BlueCross,1126
+P0046,keith,Volkov,80.0,MALE,FL,Epilepsy,Neurolog,Medicare,3207
+P0047,Frank,Brown,75.0,Male,WA,Anxiety,Psych iatry,Medicare,825
+P0048,william,Davis,74.0,MALE,TN,G E R D,GI,Medicare,1751
+P0049,Eva,Smith,68.0,fEmale,WA,Osteoporosis,Orthopedics,Medicare,4316
+P0050,tina,Smirnov,76.0,Female,OH,Osteoperosis,Orthopedcis,Medicare,4999
+P0051,DALE,Perez,65.0,Male,GA,Hypertension,Gen Practice,Medicare,1309
+P0052,Ailce,Wiliams,64.0,female,NY,Arrhythmiaa,Cardio,Medicare,3805
+P0053,John,Davis,27.0,mALE,TX,Arrhythmia,Cardiology,Cigna,4065
+P0054,michelle,JOHNSON,77.0,Female,IL,CAD,Cardiology,Medicare,3502
+P0055,Frank,Sharp,41.5,MALE,NJ,Soriasis,Derm,Aetna,1567
+P0056,melanie,Johnson,63.0,female,CA,Arthritiss,General Practice,Medicare,100
+P0057,katherine,Kim,60.0,MALE,CA,I.B.S,Gastro enterology,Aetna,2538
+P0058,pauline,Ng,46.0,mALE,VA,Asthmaa,Pulm,Cigna,1705
+P0059,John,JONES,53.0,mALE,FL,Hypothyroidism,Endocrinlogy,UnitedHealth,3009
+P0060,Bob,Davidson,74.0,Male,MI,CAD,Cardiolog,Medicare,2920
+P0061,vanessa,Brown,80.0,fEmale,NJ,Soriasis,Dermatology,Medicare,1124
+P0062,Christopher,Jackson,,Male,CO,Bronchitis,Pulmonology,BlueCross,2899
+P0063,David,Garcia,86.0,mALE,IL,Ibs,Gastroenterology,Medicare,2231
+P0064,Grace#,Smith,84.0,fEmale,NY,Asthma,Pulm,Medicare,2560
+P0065,grace,Jones,82.0,female,WA,Epilipsy,Neurology,Medicare,3039
+P0066,Jane,Rodriguez,22.0,Female,VA,Lupas,Rheumatolgy,Cigna,2552
+P0067,daniella,Brown,84.0,Female,NC,Bronchtis,Pulmonology,Medicare,1688
+P0068,John,Davis,73.0,MALE,WA,Lupus,Rheumatolgy,Medicare,3794
+P0069,ruby,Jackson,44.0,Female,NC,Diabetis,Endocrinolog,Cigna,2531
+P0070,David,Doe,62.0,mALE,MN,Arthrits,Gen Practice,Medicare,601
+P0071,Roger,Williams,21.0,MALE,NY,Arthritis,General  Practice,UnitedHealth,929
+P0072,Daneil,Smih,21.0,Female,NJ,Ibs,Gastro enterology,UnitedHealth,1683
+P0073,Grace,Garcia,,Female,MN,Osteoporosis,Orthopedic,Cigna,4399
+P0074,Jane,Lim,36.0,female,NY,Arthrits,Ortho,BlueCross,4230
+P0075,Fiona,Smith,74.0,fEmale,GA,Hyper tension,Cardio,Medicare,2646
+P0076,nancy,Jackson,76.0,Female,NY,Eczma,Dermatology,Medicare,1637
+P0077,wendy,ng,63.0,female,IL,Eczema,Dermatology,Medicare,1874
+P0078,Michelle,Kim,90.0,Female,CA,Hypertnsion,Cardiolgy,Medicare,3612
+P0079,Jasmine,Lee,82.0,fEmale,CA,Anxeity,Psychiatry,Medicare,365
+P0080,David,Richardson,87.0,MALE,VA,Arthritiss,Genral Practice,Medicare,698
+P0081,Ailce,Rodriguez,36.0,Female,IL,Hypertnsion,Gen Practice,UnitedHealth,786
+P0081,Ailce,Rodriguez,36.0,Female,IL,Hypertnsion,Gen Practice,UnitedHealth,786
+P0082,Bob,Davis,77.0,Female,NJ,IBS,Gastro enterology,Medicare,3127
+P0083,Jane,Rodriguez,77.0,fEmale,IL,Gerd,Gastroenterology,Medicare,1665
+P0084,josephine,Smith,66.0,fEmale,NY,Migraines,Neurolog,Medicare,2580
+P0085,ava,Garcia,-52.0,fEmale,TX,Diabets,Endocrinology,BlueCross,956
+P0086,keith,Lee,54.0,Male,WA,HyperTension,Cardiology,UnitedHealth,2558
+P0087,timothy,Davidson,,MALE,AZ,Asthmaa,Pulm,Cigna,2010
+P0088,Peter,Jones,999.0,mALE,NJ,Arthrits,Genral Practice,Medicare,1214
+P0089,roger,Williams,39.0,Male,MA,Anxietty,Psychiatry,Cigna,1065
+P0090,Frank,Doe,76.0,mALE,NC,Hypo thyroidism,Endocrinlogy,Medicare,2621
+P0091,David,Doe,34.0,MALE,MI,Astma,Pulm,UnitedHealth,3312
+P0092,Frank,WHITE,84.0,mALE,TX,Osteoporosis,Ortho,Medicare,3442
+P0093,Grace,Young,50.0,fEmale,VA,Arthritiss,Ortho,Aetna,-120
+P0094,robert,Little,,MALE,NY,Eczma,Dermatolog,Aetna,1189
+P0095,william,Miller,84.0,Female,IL,Epilipsy,Neurolog,Medicare,4999
+P0096,Charlie,Brown,87.0,mALE,NY,Asthma,Pulmonolog,Medicare,1903
+P0097,Bob,lee,,MALE,OH,Asthma,Pulmonology,Aetna,1528
+P0098,Grace,Garcia,90.0,Female,NC,Eczema,Dermatolog,Medicare,1631
+P0099,paul,SmiTH,999.0,mALE,OH,Diabetis,General Practice,Medicare,993
+P0100,John,White,24.0,mALE,NY,Soriasis,Dermatology,Cigna,1623
+P0101,thalia,Ferguson,38.0,Female,TX,Gerd,Gastroenterolgy,Aetna,2135
+P0102,jasmine,Cooper,65.0,Female,AZ,Arthrits,Rheum,Medicare,1523
+P0103,Frank,Johnson,18.0,Male,FL,Arthritiss,Genral Practice,BlueCross,586
+P0104,eva,Smith,47.0,Female,IL,Hypertnsion,Gen Practice,Cigna,1027
+P0105,John,Rodriguez,30.0,MALE,CA,HyperTension,Cardio,Cigna,3840
+P0106,pauline,Smith,79.0,Female,FL,Gerd,General Practice,Medicare,947
+P0107,evan,Rodriguez,41.0,mALE,CA,Anxeity,Psych iatry,BlueCross,1848
+P0108,Hannah,Davis,32.0,fEmale,NY,Arthrits,Orthopedcis,Aetna,2931
+P0109,RYAN,KIM,999.0,mALE,MI,Diabets,Endocrinology,Medicare,1862
+P0110,christine,Baker,38.0,Female,WI,Bronchitis,Pulmonology,UnitedHealth,1139
+P0111,olivia,Young,81.0,female,GA,CAD,Cardiolgy,Medicare,2144
+P0112,harry,Lopez,56.0,Male,FL,HyperTension,General  Practice,UnitedHealth,1142
+P0113,DAVID,Perez,77.0,MALE,NC,Soriasis,Dermatolgy,Medicare,793
+P0114,ian,Jones,36.0,MALE,GA,GERD,GI,UnitedHealth,1799
+P0115,michelle,LEE,23.0,female,AZ,Arthritiss,Rheumatology,Aetna,3358
+P0116,wendy,Doe,18.0,Female,OH,CAD,Cardio,UnitedHealth,1954
+P0117,louis,Lim,27.0,MALE,CO,Diabetis,Endocrinlogy,Aetna,2503
+P0118,Alice,davidson,90.0,Female,IL,Lupuss,Rheumatolog,Medicare,2165
+P0119,Bob,Young,999.0,mALE,FL,Gerd,Genral Practice,Medicare,439
+P0120,evan,Johnson,39.0,fEmale,PA,Hyper tension,Cardiolgy,UnitedHealth,4536
+P0121,ian,Rodriguez,57.0,mALE,CO,Migraines,Neurology,UnitedHealth,2838
+P0122,craig,Volkov,39.0,MALE,NJ,Epilepsyy,Neurolog,BlueCross,3378
+P0123,timothy,Garcia,30.0,mALE,PA,Arthrits,Genral Practice,UnitedHealth,1160
+P0124,Keith#,Williams,34.0,mALE,PA,Arrhythmia,Cardiolgy,Cigna,4153
+P0125,Fiona,Smith,88.0,Female,NC,Lupuss,Rheumatolgy,Medicare,4277
+P0126,Olivia,Brown,56.0,female,IL,Astma,Pulmonolog,BlueCross,2382
+P0127,David,Wu,26.0,Male,OH,IBS,GI,BlueCross,2510
+P0128,Ryan,Chang,90.0,Male,WI,Depressionn,Psych,Medicare,715
+P0129,Sally,Doe,54.0,fEmale,CO,Gerd,GI,UnitedHealth,2258
+P0130,David,White,62.0,MALE,AZ,Anxiety,Psychiatri,Medicare,504
+P0131,jack,Brown,999.0,Male,TX,Hypertnsion,Genral Practice,Medicare,161
+P0132,FRANk,Baker,36.0,mALE,OH,Hyper tension,Cardiology,Cigna,4381
+P0133,Eva,Johnson,,fEmale,NY,Arrhythmia,Cardiology,Aetna,3979
+P0134,Alice,Rodriguez,83.0,female,CO,Epilepsy,Neurolgy,Medicare,3092
+P0135,Nancy,Miller,999.0,female,FL,Hyper thyroidism,Endo,Medicare,2079
+P0136,will,Kim,49.0,Male,CO,Diabets,Gen Practice,BlueCross,481
+P0137,Jane,Cooper,32.0,female,FL,C.O.P.D,Pulm,UnitedHealth,2263
+P0138,Ava,Jackson,25.0,fEmale,IL,Eczemaa,Dermatolog,Cigna,1108
+P0139,Paul,Lopez,42.0,MALE,WI,Hypothyroidsm,Endocrinlogy,UnitedHealth,922
+P0140,Ian,Baker,59.0,Male,GA,Bronchtis,Pulmonolog,Cigna,2110
+P0141,Jane,Davis,43.0,fEmale,CO,GERD,Gastro enterology,UnitedHealth,3101
+P0142,Alice,DAVIS,33.0,Female,OH,HyperTension,Cardiology,Cigna,2483
+P0143,Nancy,Baker,57.0,female,FL,Eczemaa,Derm,BlueCross,1554
+P0144,Christopher,GARCIA,19.0,mALE,MI,Eczma,Derm,UnitedHealth,982
+P0145,Tina,Rodriguez,52.0,Female,PA,Asthma,Pulmonolgy,Aetna,1658
+P0146,Chris,Jones,78.0,Male,PA,Arrhythmiaa,Cardiolgy,Medicare,3584
+P0147,LOUIS,Rodriguez,57.0,mALE,TX,Hyper tension,Cardiolog,UnitedHealth,4742
+P0148,fiona,Williams,51.0,fEmale,TX,Depressionn,Psychiatry,UnitedHealth,1012
+P0149,Charlie,Doe,59.0,MALE,CO,Hyperthyroidism,Endocrinolog,UnitedHealth,999
+P0150,Grace,Rodriguez,59.0,fEmale,MN,Eczema,Dermatolgy,Aetna,1755
+P0151,David,Chen,24.0,mALE,WI,Hypertnsion,General  Practice,Cigna,690
+P0152,James,lee,60.0,mALE,NY,Migraine,Neurology,Aetna,3293
+P0153,olivia,Miller,,female,CA,Anxeity,Psychiatry,Cigna,262
+P0154,pauline,Richardson,46.0,fEmale,OH,Arrhythmia,Cardiology,Aetna,3906
+P0155,Grace,Rodriguez,36.0,female,NJ,Anxeity,Psych iatry,Cigna,612
+P0156,sally,White,59.0,female,NC,Anxietty,Psych iatry,BlueCross,852
+P0157,beatrice,Smirnov,48.0,female,CA,HyperTension,Cardiology,UnitedHealth,2475
+P0158,Hannah,Baker,37.0,fEmale,FL,Migraines,Neurolog,BlueCross,2484
+P0159,Michelle,Williams,25.0,female,MI,HyperTension,Cardio,UnitedHealth,3885
+P0160,John,Smith,999.0,Male,CA,Hypertension,General Practice,Medicare,662
+P0161,Charlie,davidson,59.0,mALE,AZ,C.O.P.D,Pulmonology,UnitedHealth,1424
+P0162,greG,Glover,76.0,Male,OR,Gerd,GI,Medicare,1222
+P0163,Bob#,Davis,41.0,mALE,FL,Hypertension,General  Practice,Cigna,694
+P0164,Frank,Johnson,61.0,Male,CA,Coronary Artery Diseas,Cardio,Medicare,3032
+P0165,John,White,76.0,Male,OR,Osteoperosis,Ortho,Medicare,4999
+P0166,Jane,Garcia,76.0,fEmale,VA,Depresion,Psychiatri,Medicare,1559
+P0167,Hannah,Williams,24.0,female,IL,Arthritiss,Rheumatology,BlueCross,2214
+P0168,Thomas,Wu,77.0,mALE,PA,IBS,Gastroenterolgy,Medicare,3104
+P0169,Jane,Rodriguez,61.0,female,CO,GERD,Gastroenterology,Medicare,1982
+P0170,John,Jones,84.0,Female,NY,Depresion,Psychiatri,Medicare,1282
+P0171,Alice,Kim,49.0,mALE,CA,Eczma,Dermatolgy,UnitedHealth,1725
+P0172,Ryan,Bush,84.0,mALE,GA,Anxeity,Psychiatry,Medicare,1270
+P0173,donald,Glover,46.0,Male,FL,Migraines,Neuro,Cigna,2578
+P0174,Eva,Davis,27.0,female,MI,Arthrits,General  Practice,Cigna,1282
+P0175,Tom,Cooper,53.0,MALE,MN,Lupus,Rheumatolog,UnitedHealth,3892
+P0176,Charlie,Little,86.0,Male,NY,Bronchtis,Pulm,Medicare,3287
+P0176,Charlie,Little,86.0,Male,NY,Bronchtis,Pulm,Medicare,3287
+P0177,John,Brown,86.0,MALE,CA,Bronchitis,Pulmonolog,Medicare,2223
+P0178,Grace,Perez,28.0,Female,AZ,Migraines,Neurology,Cigna,2595
+P0179,Jane,young,78.0,Female,CA,Eczema,Derm,Medicare,637
+P0180,miles,WU,999.0,Male,MN,Lupuss,Rheumatology,Medicare,1062
+P0181,Christopher,Smith,72.0,Male,MI,Arthrits,Rheumatolgy,Medicare,2473
+P0182,David,Doe,78.0,MALE,CO,GERD,Gastroenterology,Medicare,626
+P0183,Thomas,Jackson,75.0,mALE,WA,Arthritis,Gen Practice,Medicare,286
+P0184,Frank,WALES,42.0,Male,TX,Joint  Pain,Ortho,Cigna,2988
+P0185,DANIEL,Glover,35.0,Male,TX,GERD,General  Practice,UnitedHealth,1092
+P0186,Hannah,Jones,62.0,fEmale,WI,Hypothyroidsm,Endocrinology,Medicare,1797
+P0187,robert,Bush,80.0,mALE,FL,Epilepsyy,Neurolgy,Medicare,4383
+P0188,Nancy,Perez,76.0,female,WA,G E R D,Gastroenterolgy,Medicare,1589
+P0189,Jane,Glover,77.0,fEmale,TX,Arrhythmiaa,Cardiolgy,Medicare,4742
+P0190,Bob,Richardson,86.0,Male,FL,Depressionn,Psych,Medicare,1043
+P0191,tom,Ng,34.0,Male,MI,Depressionn,Psychiatry,Cigna,283
+P0192,daniella,Rodriguez,44.0,female,FL,Joint  Pain,Orthopedcis,Cigna,4922
+P0193,Eva,Chang,19.0,fEmale,NJ,Arthrits,General Practice,Aetna,69
+P0194,Bob_,jiang,79.0,Male,TN,Ibs,Gastroenterology,Medicare,3042
+P0195,xavier,Doe,41.0,MALE,NY,Migraines,Neurology,Aetna,3296
+P0196,daniel,WALES,87.0,mALE,FL,Bronchtis,Pulm,Medicare,2222
+P0197,Grace,Ferguson,47.0,Female,CA,Arrhythmiaa,Cardiolog,Cigna,2726
+P0198,Miles,Williams,47.0,MALE,IL,Hypo thyroidism,Endocrinlogy,UnitedHealth,2360
+P0199,Christopher,Cooper,28.0,Male,CA,GERD,Genral Practice,UnitedHealth,545
+P0200,David/,Wu,24.0,MALE,OH,Ibs,GI,Cigna,2617
+P0201,Thomas,Johnson,999.0,Male,MI,Soriasis,Dermatolog,Medicare,2243
+P0202,Frank,Smith,57.0,female,OH,Joint Pain,Orthopedcis,UnitedHealth,2446
+P0203,ian,Richardson,41.0,Male,GA,Anxietty,Psych iatry,BlueCross,757
+P0204,Charlie,liang,49.0,MALE,GA,CAD,Cardiology,UnitedHealth,2586
+P0205,keith,Brown,28.0,MALE,TN,HyperTension,Cardiolog,Cigna,3558
+P0206,Frank,Chan,999.0,mALE,OH,Astma,Gen Practice,Medicare,712
+P0207,olvia,Chen,61.0,fEmale,MA,Soriasis,Derm,Medicare,-500
+P0208,Bob,Davis,49.0,MALE,NY,Asthma,General  Practice,Aetna,641
+P0209,Eva,Rodriguez,51.0,female,TX,Astma,Pulmonology,UnitedHealth,2397
+P0210,Jasmine,chan,51.0,fEmale,TX,Asthmaa,General  Practice,BlueCross,173
+P0211,Sally,White,63.0,female,WA,CAD,Cardiology,Medicare,4999
+P0212,Alice,Doe,77.0,Female,FL,I.B.S,Gastro enterology,Medicare,2037
+P0213,Alice,Kim,999.0,female,VA,Diabetis,Endo,Medicare,1309
+P0214,David,Davidson,39.0,MALE,TN,Arthritiss,Ortho,BlueCross,3873
+P0215,Grace,RODRIGUEZ,47.0,Female,OH,GERD,General  Practice,UnitedHealth,797
+P0216,Joshua,Brown,37.0,MALE,TX,Arthrits,Rheumatolog,Aetna,3125
+P0217,Alice,Davis,43.0,Female,GA,G E R D,Gastro enterology,UnitedHealth,1340
+P0218,Pauline,Rodriguez,29.0,fEmale,NY,Joint Pain,Ortho,Cigna,2384
+P0219,Michelle,Garcia,85.0,Female,CO,Hypo thyroidism,Endo,Medicare,1475
+P0220,Jane,Smith,65.0,female,TX,Depressionn,Psychiatry,Medicare,1261
+P0221,Craig,Baker,38.0,Male,FL,GERD,Gastroenterolgy,UnitedHealth,1836
+P0221,Craig,Baker,38.0,Male,FL,GERD,Gastroenterolgy,UnitedHealth,1836
+P0222,Frank,Rodriguez,71.0,MALE,PA,Epilipsy,Neurology,Medicare,2771
+P0223,JASMINE,White,22.0,fEmale,TX,Arrhythmiaa,Cardio,BlueCross,3261
+P0224,Alice,Sharp,80.0,female,NY,C O P D,Pulmonolgy,Medicare,1551
+P0225,Hannah,Rodriguez,90.0,fEmale,NC,Lupas,Rheumatology,Medicare,2523
+P0226,timothy,Doe,86.0,MALE,PA,Hypertension,General  Practice,Medicare,182
+P0227,Alice,young,58.0,Female,CA,Asthma,General Practice,UnitedHealth,571
+P0228,Ava,Brown,51.0,fEmale,IL,Hypo thyroidism,Endo,UnitedHealth,2183
+P0229,Jack,Martinez,90.0,mALE,IL,Psoriasiss,Dermatolog,Medicare,1330
+P0230,Eva,Jackson,18.0,fEmale,IL,Lupuss,Rheumatolog,UnitedHealth,1987
+P0231,Frank,Doe,73.0,MALE,CA,I.B.S,Gastro enterology,Medicare,2200
+P0232,timothy,Ferguson,,MALE,FL,G E R D,General  Practice,BlueCross,739
+P0233,betty,Glover,55.0,fEmale,MN,Osteoperosis,Orthopedcis,BlueCross,3106
+P0234,John,Little,35.0,MALE,TN,Hypo thyroidism,Endocrinolog,Aetna,2361
+P0235,daniella,Miller,90.0,Female,MN,Lupuss,Rheumatolgy,Medicare,2216
+P0236,daniel,chen,76.0,Male,VA,Eczemaa,Dermatolog,Medicare,1312
+P0237,robert,White,26.0,Male,IL,Arthritis,Rheumatology,Aetna,4184
+P0238,tom,WALES,81.0,MALE,CO,Depression,Psychiatry,Medicare,662
+P0239,tina,Johnson,57.0,female,FL,Arthritis,Gen Practice,Cigna,1074
+P0240,Bob,Baker,,mALE,GA,Asthmaa,Pulm,BlueCross,2729
+P0241,John,Doe,28.0,mALE,GA,Arthrits,Orthopedic,BlueCross,3228
+P0242,alice,White,47.0,female,IL,Psoriasiss,Derm,Aetna,1392
+P0243,Eva,Lopez,83.0,female,FL,GERD,General  Practice,Medicare,370
+P0244,Grace,Lim,63.0,Female,NY,Anxietty,Psychiatri,Medicare,962
+P0245,Olivia,Lee,67.0,female,NC,Arthrits,Rheumatology,Medicare,2121
+P0246,Alice,Cooper,19.0,fEmale,FL,Depression,Psych iatry,Cigna,846
+P0247,Charles,wales,28.0,mALE,NY,Epilipsy,Neurolgy,Aetna,4009
+P0248,fiona,liang,66.0,fEmale,NY,Arthritiss,General Practice,Medicare,600
+P0249,David,Jones,,mALE,NY,Astma,General  Practice,UnitedHealth,958
+P0250,David,Doe,27.0,mALE,AZ,Lupas,Rheum,UnitedHealth,3705
+P0251,evan,Liang,35.0,mALE,OH,Epilepsyy,Neurology,Aetna,3263
+P0252,Grace,CooPER,37.0,female,CA,Depressionn,Psych iatry,Cigna,881
+P0253,robert,Martinez,80.0,mALE,NJ,Asthmaa,Pulmonolgy,Medicare,3177
+P0254,Hannah,jiang,27.0,female,PA,Hyper tension,Cardiology,Cigna,4999
+P0255,Grace,Rodriguez,25.0,Female,VA,Epilipsy,Neurolog,Aetna,3903
+P0256,thomas,Volkov,59.0,Male,PA,Arrythmia,Cardiology,Cigna,4175
+P0257,Eva,Davidson,40.0,female,FL,G E R D,Genral Practice,Aetna,628
+P0258,David,Lim,59.0,Male,AZ,Anxietty,Psychiatry,Aetna,1400
+P0259,David,Williams,47.0,MALE,TX,Lupuss,Rheum,Aetna,2537
+P0260,ROBERT,Cooper,23.0,Female,FL,Eczma,Dermatolog,UnitedHealth,1241
+P0261,thomas,White,60.0,mALE,PA,Joint Pain,Orthopedic,Aetna,2829
+P0262,craig,Jackson,52.0,Male,MA,Psoriasis,Dermatology,Cigna,871
+P0263,greg,KIM,,Male,CA,Arthritiss,Rheumatolog,Cigna,1374
+P0264,Frank,Richardson,53.0,Male,NY,Asthma,Pulmonology,BlueCross,2327
+P0265,olivia,Smith,62.0,Female,OH,Anxietty,Psych,Medicare,1113
+P0266,vanessa,Volkov,34.0,Female,MI,IBS,Gastroenterolgy,Cigna,2969
+P0267,ROB,Rodriguez,53.0,MALE,CA,Arthrits,Gen Practice,BlueCross,777
+P0268,harry,Garcia,66.0,MALE,VA,Anxiety,Psychiatry,Medicare,664
+P0269,Frank,MILLER,40.0,MALE,OH,Hypertension,General  Practice,Cigna,640
+P0270,Tina,Rodriguez,999.0,Female,PA,Lupas,Rheumatology,Medicare,3050
+P0271,Eva,Brown,81.0,female,NY,CAD,Cardio,Medicare,4021
+P0272,Grace,Jiang,34.0,fEmale,FL,Astma,General  Practice,UnitedHealth,527
+P0273,kevin,Cooper,88.0,mALE,TN,Gerd,Gastroenterology,Medicare,1758
+P0274,Timothy,Garcia,,MALE,OR,GERD,Gen Practice,Aetna,821
+P0275,John,Glover,85.0,MALE,TX,G E R D,Gastroenterology,Medicare,2294
+P0276,nancy,Smith,76.0,MALE,TX,Diabets,Genral Practice,Medicare,479
+P0277,David,Bush,38.0,fEmale,NC,C O P D,Pulmonolog,UnitedHealth,2061
+P0278,sally,young,89.0,female,VA,Joint Pain,Orthopedcis,Medicare,2605
+P0279,Kevin,chan,48.0,MALE,AZ,Bronchitis,Pulmonolog,BlueCross,2959
+P0280,olvia,Rodriguez,42.0,Female,FL,Hyper tension,Cardiology,Aetna,4342
+P0281,daniella,Lopez,18.0,Female,TX,Coronary Artery Disease,Cardiolog,BlueCross,4999
+P0282,John,Jackson,67.0,MALE,CA,HyperTension,Cardio,Medicare,4308
+P0283,Hannah,Sharp,25.0,Female,NY,Arthritiss,Orthopedcis,Aetna,4999
+P0284,Alice,Lee,33.0,female,OH,Depression,Psychiatry,UnitedHealth,612
+P0285,jasmine,Rodriguez,80.0,fEmale,MA,Psoriasis,Dermatology,Medicare,1728
+P0286,michelle,richardson,73.0,fEmale,CA,HyperTension,Cardiology,Medicare,3988
+P0287,Hannah,Davis,68.0,Female,CA,Diabets,Genral Practice,Medicare,617
+P0288,Charlie,Rodriguez,32.0,MALE,NC,Hypertnsion,General Practice,Cigna,798
+P0289,josephine,Johnson,30.0,female,NC,Arthrits,Rheumatolgy,BlueCross,1891
+P0290,Bob,Smith,63.0,MALE,TX,Arthritiss,Rheum,Medicare,1577
+P0291,louis,Bush,40.0,mALE,CA,Diabetis,General Practice,Aetna,430
+P0292,Frank,Cooper,68.0,mALE,CA,Arthrits,Rheumatolgy,Medicare,2014
+P0293,David,Davidson,54.0,mALE,NC,Arthritiss,Orthopedic,Cigna,3439
+P0294,ava,Williams,74.0,Female,FL,Joint Pain,Orthopedcis,Medicare,3190
+P0295,ian,Young,20.0,mALE,FL,Bronchitis,Pulmonolog,BlueCross,1324
+P0296,aidan,Rodriguez,19.0,mALE,NC,Arthritiss,Rheumatolog,BlueCross,1872
+P0297,tom,Ng,86.0,MALE,CA,GERD,Gastroenterolgy,Medicare,2437
+P0298,pauline,White,35.0,Female,OH,Jiont Pain,Ortho,BlueCross,4255
+P0299,Charlie,Young,81.0,Male,CA,Lupus,Rheum,Medicare,2387
+P0299,Charlie,Young,81.0,Male,CA,Lupus,Rheum,Medicare,2387
+P0300,John,Martinez,80.0,mALE,NC,IBS,GI,Medicare,50
+P0301,Hannah,Miller,29.0,female,WA,Coronary Artery Disease,Cardio,BlueCross,1737
+P0302,Charlie,Little,48.0,Female,IL,Eczema,Dermatology,Aetna,771
+P0303,Alice,Perez,46.0,fEmale,IL,C.O.P.D,Pulmonolgy,Cigna,1614
+P0304,ryan,Jackson,30.0,mALE,MI,Migrane,Neuro,BlueCross,1739
+P0305,nicholas,Doe,68.0,mALE,CA,Diabets,General  Practice,Medicare,1139
+P0306,theresa,Jackson,38.0,fEmale,FL,Migraines,Neurolgy,BlueCross,3631
+P0307,Frank,Johnson,,mALE,TN,Hyper thyroidism,Endocrinology,Cigna,2762
+P0308,Harry,Smith,83.0,MALE,MN,Arrhythmia,Cardiolog,Medicare,4104
+P0309,Eva,Lopez,27.0,female,CA,Anxietty,Psychiatri,UnitedHealth,50
+P0310,olivia,Glover,32.0,female,CA,Depressionn,Psychiatri,BlueCross,1229
+P0311,Grace,Doe,56.0,fEmale,VA,Eczma,Dermatolog,UnitedHealth,682
+P0312,Timothy,Lee,46.0,mALE,IL,Osteoperosis,Orthopedics,BlueCross,4141
+P0313,Bob,White,70.0,mALE,VA,Asthma,Pulmonology,Medicare,997
+P0314,Michelle,Johnson,20.0,fEmale,NC,Arthritis,Rheumatolgy,UnitedHealth,1740
+P0315,greg,lee,26.0,MALE,IL,Hypertension,General  Practice,Aetna,141
+P0316,John,baker,23.0,mALE,MI,Soriasis,Dermatology,UnitedHealth,2073
+P0317,dale,Jiang,35.0,Male,GA,HyperTension,Genral Practice,BlueCross,494
+P0318,craig,Wales,24.0,MALE,CA,Hypertension,General Practice,BlueCross,630
+P0319,Grace,Lee,,Female,IL,Arrythmia,Cardiolgy,UnitedHealth,3928
+P0320,David,Smirnov,85.0,MALE,TN,Lupus,Rheumatolgy,Medicare,2480
+P0321,Eva,Jackson,72.0,Female,VA,Astma,Pulmonolog,Medicare,1574
+P0322,theresa,Sharp,56.0,fEmale,NC,Anxiety,Psych iatry,UnitedHealth,1118
+P0323,Alice,Jones,44.0,Female,GA,Psoriasis,Dermatolgy,BlueCross,1119
+P0324,Jane,Miller,22.0,Female,AZ,Coronary Artery Diseas,Cardiology,UnitedHealth,1151
+P0325,nancy,Doe,48.0,Female,FL,Coronary Artery Disease,Cardio,Cigna,3770
+P0326,Eva,Davis,42.0,female,NY,Arrhythmia,Cardio,Aetna,3870
+P0327,Charlie,Bush,56.0,MALE,GA,Diabetes,General Practice,Cigna,1410
+P0328,David,Sun,31.0,MALE,AZ,Anxeity,Psychiatri,Cigna,871
+P0329,Hannah,Wu,74.0,fEmale,NY,Hypothyroidsm,Endocrinolog,Medicare,2938
+P0330,John,Sharp,22.0,mALE,TX,Lupuss,Rheumatolog,UnitedHealth,1916
+P0331,felix,Martinez,64.0,Male,FL,Astma,Pulmonolgy,Medicare,1769
+P0332,theresa,Jiang,61.0,female,IL,Lupas,Rheumatology,Medicare,1899
+P0333,Eva,Rodriguez,50.0,Female,CA,G E R D,GI,Aetna,1546
+P0334,Grace,Glover,85.0,fEmale,GA,Depresion,Psychiatri,Medicare,1148
+P0335,Michelle,davidson,34.0,female,TN,Bronchtis,Pulm,UnitedHealth,1924
+P0336,Grace,Sharp,77.0,fEmale,NY,Diabetes,Gen Practice,Medicare,1025
+P0336,Grace,Sharp,77.0,fEmale,NY,Diabetes,Gen Practice,Medicare,1025
+P0337,Olivia,Jones,25.0,Female,IL,Hypertnsion,General Practice,UnitedHealth,711
+P0338,Wendy,Liang,58.0,fEmale,OH,Depressionn,Psych,BlueCross,370
+P0339,Harry,Young,75.0,MALE,WI,Anxiety,Psych iatry,Medicare,715
+P0340,Rob,Ferguson,46.0,MALE,MI,I.B.S,GI,Cigna,1541
+P0341,Fiona,Lopez,73.0,fEmale,PA,Hyper tension,Cardio,Medicare,2863
+P0342,Keith,Richardson,60.0,Male,NJ,Joint Pain,Orthopedcis,BlueCross,4115
+P0343,Ryan,sun,69.0,Male,PA,G E R D,Genral Practice,Medicare,852
+P0344,Felix,Johnson,27.0,MALE,NJ,Hypothyroidsm,Endocrinology,Aetna,1105
+P0345,Greg,Chan,62.0,mALE,TX,Hyper tension,Gen Practice,Medicare,812
+P0346,Michelle,Ferguson,57.0,female,CA,C.O.P.D,Pulmonolog,UnitedHealth,2438
+P0347,Grace,lopez,84.0,female,GA,Lupas,Rheumatolgy,Medicare,2949
+P0348,Olivia,Cooper,27.0,Female,PA,Hyper thyroidism,Endocrinology,Aetna,2223
+P0349,Tom,LOPEz,55.0,MALE,IL,Depresion,Psych,Cigna,-75
+P0350,Jane,Lee,30.0,female,CA,Depression,Psychiatri,BlueCross,1168
+P0351,David,Chang,21.0,mALE,CO,Bronchtis,Pulm,BlueCross,2168
+P0352,Bob,Wu,66.0,Male,CA,Depression,Psych iatry,Medicare,1008
+P0353,Frank,Perez,70.0,Male,WI,Anxeity,Psychiatry,Medicare,456
+P0354,Jane,Smirnov,34.0,fEmale,NY,Diabets,Endocrinology,Aetna,3294
+P0355,Jane,perez,54.0,fEmale,FL,Diabets,Endocrinlogy,BlueCross,2366
+P0356,Grace,Brown,46.0,female,MN,Depressionn,Psych iatry,UnitedHealth,1206
+P0357,Eva,SUN,34.0,Female,WI,Bronchtis,Pulmonolgy,Cigna,2209
+P0358,Bob,Jiang,,male,MI,Lupuss,Rheumatolgy,UnitedHealth,2311
+P0359,David,Miller,40.0,mALE,MN,C O P D,Pulmonology,Aetna,2399
+P0360,Hannah,baker,47.0,fEmale,TX,Coronary Artery Disease,Cardiolgy,BlueCross,4057
+P0361,John,jiang,20.0,Male,MA,Diabetis,Endocrinlogy,Cigna,892
+P0362,Michelle,Smirnov,54.0,Female,GA,Epilipsy,Neurology,Cigna,1870
+P0363,Bob,Chen,43.0,MALE,FL,I.B.S,Gastroenterolgy,BlueCross,1829
+P0364,FIONA,Jackson,27.0,fEmale,GA,Asthma,Pulmonolog,Aetna,1957
+P0365,Bob,ng,,Male,CA,Bronchitiss,Pulmonolgy,UnitedHealth,2344
+P0366,Hannah,Young,42.0,fEmale,WA,Diabets,General Practice,BlueCross,497
+P0367,AVA,Miller,41.0,Female,NC,Arthritis,General  Practice,Aetna,427
+P0368,Frank,Volkov,62.0,Male,CA,Depression,Psychiatri,Medicare,1075
+P0369,Ryan,Jones,47.0,MALE,TX,Arthritiss,Gen Practice,Aetna,595
+P0370,Felix,Little,18.0,MALE,FL,Psoriasiss,Derm,Aetna,2174
+P0371,Grace,liang,47.0,Female,PA,Psoriasiss,Derm,Aetna,2581
+P0372,Thomas,Rodriguez,26.0,MALE,FL,Osteoporsis,Orthopedic,Aetna,4354
+P0373,Jane,Lee,21.0,Female,FL,Arrythmia,Cardiolgy,Aetna,2733
+P0374,Tom,Doe,19.0,MALE,OH,Gerd,Gastroenterology,UnitedHealth,2070
+P0375,David,Johnson,63.0,Male,TX,Arthritis,Ortho,Medicare,3951
+P0376,Hannah,Jiang,49.0,Female,NJ,Eczemaa,Dermatolog,Aetna,884
+P0377,Timothy,Davis,46.0,mALE,IL,Hyperthyroidism,Endo,UnitedHealth,1892
+P0378,Eva,Rodriguez,38.0,Female,IL,Depresion,Psychiatry,Cigna,833
+P0379,Frank,davidson,68.0,mALE,OH,Bronchitis,Pulmonolgy,Medicare,1770
+P0380,Ryan,Doe,39.0,MALE,TX,Joint Pain,Orthopedics,Cigna,4052
+P0381,Eva,JacKSon,50.0,Female,TN,Lupus,Rheum,UnitedHealth,2280
+P0382,Alice,Doe,71.0,female,CA,Lupus,Rheumatolgy,Medicare,2878
+P0383,Ian,Garcia,31.0,Male,OH,Hyperthyroidism,Endocrinology,Cigna,1463
+P0384,Eva,Brown,59.0,Female,WI,C O P D,Pulmonology,BlueCross,2230
+P0385,Jane,Doe,66.0,female,TX,Epilepsy,Neurology,Medicare,2640
+P0386,Sally,DaviS,84.0,Female,MI,Hyper tension,Genral Practice,Medicare,113
+P0387,David,Chen,85.0,mALE,WI,Osteoperosis,Orthopedcis,Medicare,4964
+P0387,David,Chen,85.0,mALE,WI,Osteoperosis,Orthopedcis,Medicare,4964
+P0388,Louis,Cooper,43.0,MALE,NY,C O P D,Pulm,Cigna,2496
+P0388,Louis,Cooper,43.0,MALE,NY,C O P D,Pulm,Cigna,2496
+P0389,Olivia,baker,36.0,Female,MN,Epilipsy,Neurolog,Aetna,2492
+P0390,David,Jones,53.0,MALE,GA,Anxiety,Psychiatry,UnitedHealth,724
+P0391,Daniel,Wu,50.0,MALE,MA,Osteoporosis,Orthopedic,Aetna,2574
+P0392,Frank,Jackson,20.0,Male,MI,Astma,Pulm,UnitedHealth,1035
+P0393,kylie,richardson,71.0,Female,CA,Psoriasiss,Dermatolog,Medicare,566
+P0394,Hannah,Jones,39.0,Female,NY,Psoriasis,Dermatolog,Aetna,2458
+P0395,wendy,LOpez,26.0,Female,TN,Hypothyroidsm,Endocrinolog,BlueCross,2637
+P0396,David,Rodriguez,82.0,MALE,IL,Osteoperosis,Ortho,Medicare,4932
+P0397,ALICE,Cooper,66.0,Female,IL,Anxiety,Psychiatry,Medicare,199
+P0398,Jane,Smith,89.0,female,FL,Epilepsy,Neuro,Medicare,2809
+P0399,Ava,Garcia,999.0,fEmale,TX,Diabets,Endocrinolog,Medicare,2103
+P0400,betty,Miller,46.0,fEmale,NC,Migraines,Neurology,BlueCross,2884
+P0401,Jane,Sun,79.0,fEmale,NY,Migrane,Neurolgy,Medicare,2705
+P0402,David,Cooper,75.0,mALE,TN,Eczema,Dermatolog,Medicare,575
+P0403,mary,Chan,69.0,female,CA,Arrhythmiaa,Cardiolog,Medicare,3223
+P0404,Jane,Rodriguez,82.0,Female,MA,Diabetis,General Practice,Medicare,625
+P0405,nancy,Little,78.0,fEmale,CA,Asthma,Pulmonology,Medicare,1030
+P0406,Pauline,Rodriguez,60.0,female,AZ,Arthritiss,Orthopedcis,Aetna,4140
+P0407,HANNAH,Sharp,48.0,fEmale,IL,Coronary Artery Diseas,Cardiolog,UnitedHealth,2847
+P0408,craig,Jones,86.0,Male,NJ,Arthrits,Rheumatolog,Medicare,1754
+P0409,Greg,Jones,26.0,mALE,IL,Hyperthyroidism,Endocrinolog,BlueCross,2093
+P0410,Bob,White,23.0,MALE,TX,Psoriasiss,Derm,Aetna,1220
+P0411,Keith,Doe,35.0,mALE,MN,CAD,Cardiolgy,UnitedHealth,2623
+P0412,Eva,Baker,46.0,fEmale,NC,Hyper thyroidism,Endocrinolog,UnitedHealth,443
+P0413,Fiona,chan,49.0,Female,TX,Arrhythmiaa,Cardiolgy,Cigna,4999
+P0414,Hannah,Sharp,71.0,female,GA,GERD,General Practice,Medicare,500
+P0415,josephine,Williams,72.0,fEmale,TX,Anxietty,Psych iatry,Medicare,1089
+P0416,christine,Cooper,38.0,fEmale,IL,Epilepsyy,Neuro,UnitedHealth,2117
+P0417,Felix,lopez,56.0,Male,GA,Epilepsy,Neuro,Cigna,3123
+P0418,Ian,Brown,29.0,Male,GA,Asthma,Genral Practice,UnitedHealth,828
+P0419,Ryan,Lee,72.0,MALE,CA,Hyperthyroidsm,Endocrinology,Medicare,1943
+P0420,tina,Doe,72.0,Female,TX,HyperTension,Cardio,Medicare,4033
+P0421,harry,perez,20.0,MALE,IL,Arrhythmiaa,Cardiolgy,Cigna,3889
+P0422,Hannah,Lim,47.0,fEmale,PA,Diabetis,Endocrinolog,Aetna,1970
+P0423,Eva,Davis,41.0,MALE,MA,Asthmaa,Pulmonolgy,Aetna,2863
+P0424,louis,Ferguson,47.0,Male,OH,Anxeity,Psych iatry,BlueCross,166
+P0425,Timothy,wu,50.0,MALE,WA,Hyperthyroidsm,Endo,Aetna,2803
+P0426,Alice,Cooper,30.0,female,NY,Astma,General Practice,Cigna,681
+P0427,jack,lopez,29.0,mALE,TX,Eczma,Dermatolog,UnitedHealth,1117
+P0428,Jane,Glover,57.0,Female,FL,Arthritis,Orthopedcis,BlueCross,4999
+P0429,joshua,Miller,61.0,mALE,CA,Hyper thyroidism,Endo,Medicare,1292
+P0430,Frank,Cooper,49.0,Male,NY,CAD,Cardiology,BlueCross,3238
+P0431,dale,Glover,82.0,mALE,NC,Arthritiss,Rheum,Medicare,2861
+P0432,Hannah,Bush,55.0,Female,AZ,Lupas,Rheumatolog,UnitedHealth,1740
+P0433,Alice,YOUNG,50.0,mALE,FL,HyperTension,Genral Practice,Aetna,733
+P0434,robert,Jones,,MALE,MI,Arthritiss,Rheumatolgy,Aetna,2417
+P0435,Ashley,Young,31.0,fEmale,NJ,Epilepsy,Neuro,Cigna,1385
+P0436,Eva,Jones,62.0,Female,MI,Diabetes,Endocrinolog,Medicare,1342
+P0437,Frank,Brown,68.0,MALE,WI,Arrhythmiaa,Cardiolog,Medicare,3592
+P0438,John,Doe,33.0,Male,OH,I.B.S,GI,UnitedHealth,3072
+P0439,Wendy,Kim,45.0,fEmale,IL,Gerd,Gastroenterolgy,Aetna,1755
+P0440,Miles,Lim,,mALE,OH,Ibs,GI,Aetna,2740
+P0441,Mary,Davis,75.0,fEmale,CA,Asthmaa,Pulmonolog,Medicare,1714
+P0442,David,Smith,87.0,MALE,CA,Arthritis,Rheumatolog,Medicare,1913
+P0443,Aidan,Williams,50.0,Male,PA,Eczma,Dermatolog,UnitedHealth,1593
+P0444,Jack,Brown,32.0,Male,NY,Diabetes,Endocrinology,Aetna,50
+P0445,Jane,Ng,999.0,Female,TX,Depresion,Psychiatri,Medicare,888
+P0446,Frank,Wu,18.0,mALE,NY,Eczema,Dermatolgy,Aetna,1849
+P0447,Victor,Miller,999.0,mALE,NC,Migraine,Neurolog,Medicare,4113
+P0448,Charlotte,Jones,37.0,Female,PA,Diabets,General  Practice,UnitedHealth,938
+P0449,Olivia,Chen,72.0,female,NY,Eczema,Dermatolgy,Medicare,1290
+P0449,Olivia,Chen,72.0,female,NY,Eczema,Dermatolgy,Medicare,1290
+P0450,GREGORY,Chang,27.0,MALE,CA,Hypo thyroidism,Endocrinolog,UnitedHealth,1632
+P0451,Lisa,liang,,female,TN,Asthma,Pulmonology,Cigna,2359
+P0452,kylie,Smith,30.0,fEmale,MI,Coronary Artery Diseas,Cardiolog,UnitedHealth,4999
+P0453,Pauline,SHARP,999.0,female,IL,Anxiety,Psych iatry,Medicare,834
+P0454,Alice,Cooper,19.0,fEmale,MI,Coronary Artery Disease,Cardiolgy,BlueCross,3264
+P0455,Wendy,Doe,83.0,female,MN,Arthritis,Rheum,Medicare,3737
+P0456,Joshua,JONES,66.0,MALE,NC,Epilepsy,Neurolog,Medicare,3447
+P0457,Frank,Davis,67.0,MALE,NC,Diabetes,Endo,Medicare,3170
+P0458,Tina,richardson,28.0,female,MI,Migraine,Neuro,UnitedHealth,2287
+P0459,Grace,Johnson,87.0,mALE,CO,Diabets,Endo,Medicare,2209
+P0460,Hannah,Rodriguez,41.0,fEmale,TN,Gerd,Genral Practice,BlueCross,1026
+P0461,BETTY,Volkov,81.0,Female,FL,C O P D,Pulmonolgy,Medicare,2850
+P0462,John,Rodriguez,,Male,CA,Diabetis,Endo,BlueCross,1486
+P0463,Ashley,COOPER,18.0,Male,FL,G E R D,Gastroenterology,Cigna,1292
+P0464,Eva,Garcia,48.0,female,NY,Arthrits,Rheumatology,UnitedHealth,2957
+P0465,Hannah,Miller,81.0,Female,FL,Epilepsy,Neuro,Medicare,3283
+P0466,Alice,Rodriguez,81.0,female,IL,GERD,Gen Practice,Medicare,881
+P0467,Eva,Smith,89.0,fEmale,CO,IBS,GI,Medicare,2291
+P0468,Dale,Chang,58.0,Male,TX,Soriasis,Dermatolgy,Cigna,814
+P0469,Jane,Rodriguez,,Female,NY,Epilipsy,Neurology,BlueCross,2482
+P0470,Fiona,Williams,79.0,fEmale,AZ,Anxiety,Psych,Medicare,1545
+P0471,Hannah,Lee,70.0,Female,TX,Diabets,Endocrinology,Medicare,1815
+P0472,josephine,Doe,55.0,fEmale,NY,Arrhythmia,Cardiolog,Aetna,2638
+P0473,christine,perez,30.0,fEmale,OH,Anxietty,Psychiatri,UnitedHealth,1468
+P0474,Jane,Johnson,53.0,female,VA,Hypertension,General Practice,Cigna,935
+P0475,ian,Miller,59.0,mALE,MA,Arthrits,Ortho,UnitedHealth,3154
+P0476,Michelle,Young,53.0,Female,FL,Ibs,GI,Cigna,3062
+P0477,Aidan,Rodriguez,78.0,mALE,MN,Migraines,Neurolog,Medicare,3688
+P0478,Betty,Jackson,63.0,Female,IL,Hypertnsion,Cardio,Medicare,3974
+P0479,Hannah,Garcia,49.0,female,TX,Arrhythmia,Cardiology,Aetna,3856
+P0480,thomas,Smith,67.0,MALE,TX,Arrythmia,Cardiolog,Medicare,4999
+P0481,John,Bush,,mALE,IL,Hypertnsion,Genral Practice,Aetna,50
+P0482,Timothy,Doe,27.0,MALE,WA,Arthritiss,Orthopedics,UnitedHealth,4999
+P0483,Olivia,Rodriguez,46.0,Female,CA,Arthrits,Genral Practice,BlueCross,600
+P0484,vanessa,Lopez,74.0,female,TX,HyperTension,Cardiolog,Medicare,2798
+P0485,GRACE,Glover,45.0,Female,WA,Eczma,Dermatolgy,UnitedHealth,778
+P0486,Frank,Little,54.0,mALE,AZ,Psoriasiss,Dermatology,UnitedHealth,2465
+P0487,Daniel,Sharp,90.0,Male,TX,Depression,Psych,Medicare,796
+P0488,Jane,Rodriguez,77.0,fEmale,CA,Arthritis,Orthopedcis,Medicare,3324
+P0489,Lisa,Davidson,34.0,Female,NC,Asthmaa,Genral Practice,UnitedHealth,1238
+P0490,Harry,Smirnov,49.0,Male,WA,GERD,Gastro enterology,Aetna,3138
+P0491,Frank,Ferguson,35.0,mALE,CA,Hyper tension,Cardiolgy,Cigna,3895
+P0492,Fiona,Brown,43.0,Female,PA,Bronchitis,Pulmonolgy,UnitedHealth,2185
+P0493,Felix,Lee,72.0,Male,TX,Hyper tension,Cardio,Medicare,3998
+P0494,Josephine,Jones,63.0,fEmale,GA,Asthmaa,Pulmonolgy,Medicare,3288
+P0495,Bob,Sharp,30.0,mALE,CA,G E R D,Gastroenterolgy,BlueCross,2640
+P0496,Vanessa,Johnson,22.0,female,TX,Migraine,Neurolog,Aetna,3058
+P0497,Hannah,Doe,68.0,female,OH,Asthma,Pulm,Medicare,3717
+P0498,Victoria,RICHARDSON,59.0,fEmale,MN,HyperTension,Cardiolgy,Cigna,2367
+P0499,Hannah,Garcia,61.0,fEmale,CA,GERD,General  Practice,Medicare,1024
+P0500,Victoria,Jiang,36.0,fEmale,CA,I.B.S,GI,BlueCross,3444
+P0501,Wendy,Williams,999.0,female,TX,Migraines,Neurology,Medicare,1185
+P0502,Mary,Garcia,30.0,Female,WA,Hypertnsion,Cardiolog,BlueCross,4085
+P0503,lisa,Jackson,26.0,female,FL,Depression,Psych iatry,Cigna,154
+P0504,Bob,Doe,50.0,Male,FL,Arrhythmia,Cardio,Cigna,1892
+P0505,Hannah,Doe,32.0,Female,IL,Hypertension,Cardiolog,UnitedHealth,4352
+P0506,michelle,Brown,55.0,fEmale,MA,Arthritis,Ortho,BlueCross,4048
+P0507,tim,Doe,82.0,mALE,FL,Osteoporsis,Ortho,Medicare,3271
+P0508,Victor,Rodriguez,72.0,Male,PA,Joint Pain,Orthopedics,Medicare,2782
+P0509,John,Davis,29.0,mALE,PA,Diabets,General Practice,BlueCross,896
+P0510,Bob,Davidson,83.0,MALE,PA,Epilipsy,Neurolgy,Medicare,3293
+P0511,Jane,lopez,68.0,fEmale,IL,Arthritiss,General  Practice,Medicare,460
+P0512,ryan,Davis,,Male,WA,Psoriasiss,Dermatolog,UnitedHealth,875
+P0513,JACK,Wu,46.0,Male,TX,Depresion,Psychiatri,Cigna,976
+P0514,betty,Bush,66.0,Female,PA,Diabetes,Endocrinology,Medicare,2336
+P0515,Bob,Jones,36.0,Male,TX,Arthritis,General  Practice,Cigna,660
+P0516,Bob,Davis,42.0,MALE,MA,Arrythmia,Cardiolgy,BlueCross,4101
+P0516,Bob,Davis,42.0,MALE,MA,Arrythmia,Cardiolgy,BlueCross,4101
+P0517,Ashley,Williams,18.0,mALE,OR,CAD,Cardiology,UnitedHealth,3091
+P0518,tina,Perez,87.0,Female,NC,Depresion,Psychiatry,Medicare,1086
+P0519,Jane,Rodriguez,50.0,fEmale,TX,Migraines,Neuro,BlueCross,4787
+P0520,jasmine,Ferguson,59.0,Female,CO,Epilipsy,Neurolgy,Cigna,4486
+P0521,victoria,Smith,41.0,fEmale,FL,Arthrits,Rheum,Cigna,1561
+P0522,thomas,Garcia,73.0,MALE,NC,Arrhythmia,Cardio,Medicare,3606
+P0523,kylie,Miller,22.0,female,VA,Lupus,Rheum,UnitedHealth,2248
+P0524,ryan,Perez,74.0,Male,CA,Lupus,Rheumatolgy,Medicare,2410
+P0525,olivia,Sharp,53.0,fEmale,TX,Hypertension,Cardiology,Cigna,4243
+P0526,Eva,Smirnov,48.0,Female,IL,Depresion,Psychiatri,UnitedHealth,838
+P0527,Jane,liang,45.0,female,NY,Arthrits,Rheumatolog,Cigna,2726
+P0528,Thomas,Glover,31.0,Male,FL,Astma,General Practice,Cigna,771
+P0529,Ryan,Brown,47.0,mALE,FL,GERD,GI,Aetna,1102
+P0530,Grace,Williams,78.0,fEmale,NY,G E R D,Gen Practice,Medicare,601
+P0531,Alice,Smith,32.0,female,OR,Hyper tension,Cardio,UnitedHealth,3362
+P0532,lisa,Davidson,999.0,fEmale,IL,Arrhythmiaa,Cardiolgy,Medicare,3696
+P0533,JOHN,Rodriguez,22.0,Male,IL,Depresion,Psych,Cigna,565
+P0534,Jane,Chang,78.0,female,FL,Hyperthyroidsm,Endo,Medicare,2021
+P0535,daniella,BUSH,34.0,Female,TX,COPD,Pulmonolog,Cigna,2209
+P0536,EVA,Cooper,84.0,Female,FL,Epilepsy,Neurology,Medicare,1620
+P0537,ava,Rodriguez,79.0,Female,TN,Epilipsy,Neurolgy,Medicare,4286
+P0538,Charlie,Baker,999.0,Female,TN,Eczemaa,Dermatology,Medicare,1735
+P0539,Pauline,Wu,27.0,female,TX,Eczemaa,Dermatolgy,Aetna,1278
+P0540,Michelle,Jones,31.0,female,NY,Joint  Pain,Orthopedcis,UnitedHealth,3082
+P0541,Alice,Miller,75.0,female,OH,Diabetes,General Practice,Medicare,265
+P0002,Charlotte,Garcia,32.0,female,TX,COPD,Pulmonolgy,BlueCross,1804
+P0003,reBeccA,Lopez,45.0,fEmale,CA,Lupas,Rheumatolgy,UnitedHealth,2858
+P0003,reBeccA,Lopez,45.0,fEmale,CA,Lupas,Rheumatolgy,UnitedHealth,2858
+P0004,MarY,lee,50.0,fEmale,IL,Joint  Pain,Orthopedcis,UnitedHealth,2524
+P0005,harry,Brown,-21.0,mALE,NJ,C O P D,Pulmonology,UnitedHealth,2429
+P0006,Wendy,Davis,63.0,female,IL,Arthritiss,General Practice,Medicare,1269
+P0007,nancy,Ferguson,69.0,Female,PA,Arrhythmiaa,Cardiolgy,Medicare,3839
+P0008,claiRe,ChaN,48.0,female,PA,Bronchitis,Pulm,UnitedHealth,1819
+P0009,John,Rodriguez,65.0,MALE,MN,Arthrits,Orthopedcis,Medicare,3827
+P0010,Alice,ng,68.0,fEmale,MA,Hypertnsion,Gen Practice,Medicare,454
+P0011,Greg,Johnson,71.0,Male,NJ,Arrhythmiaa,Cardiolgy,Medicare,4437
+P0542,Steven,Campbell,35.0,mALE,IL,Migraine,Neurolog,Aetna,4276
+P0543,Deborah,Morris,86.0,mALE,CA,Arthritiss,Orthopedic,Medicare,2195
+P0544,William,Thompson,45.0,female,OR,Psoriasis,Dermatolgy,Cigna,1230
+P0545,Nicole,Diaz,88.0,mALE,CA,COPD,Pulmonology,Medicare,1583
+P0546,Timothy,Cruz,68.0,Female,CA,Asthmaa,Gen Practice,Medicare,761
+P0547,Christine,Peterson,21.0,Male,PA,Arthritiss,General  Practice,UnitedHealth,1002
+P0548,Kenneth,Sanchez,83.0,male,GA,Hyper thyroidism,Endo,Medicare,1281
+P0549,Scott,Ortiz,86.0,female,MI,Arthritiss,General Practice,Medicare,710
+P0550,Angela,Collins,81.0,Female,MI,Hyper tension,Gen Practice,Medicare,556
+P0551,Linda,Wilson,88.0,fEmale,TX,Arthrits,Rheumatology,Medicare,1840
+P0552,Charles,Campbell,81.0,male,PA,Epilepsyy,Neurolgy,Medicare,1616
+P0553,Patricia,Rivera,80.0,mALE,PA,Astma,Gen Practice,Medicare,869
+P0554,Brenda,Cruz,21.0,mALE,CA,Psoriasiss,Derm,Aetna,2280
+P0555,Carolyn,Parker,46.0,fEmale,AZ,Diabetis,General  Practice,BlueCross,50
+P0556,Shirley,Davis,76.0,female,PA,Epilepsyy,Neurolgy,Medicare,2025
+P0557,Catherine,Gomez,27.0,female,NJ,Asthma,Genral Practice,Cigna,539
+P0558,Jessica,Roberts,79.0,female,MI,Epilepsyy,Neurology,Medicare,2809
+P0559,Frank,Scott,22.0,Male,NJ,GERD,Gastro enterology,Aetna,364
+P0560,Brandon,Robinson,40.0,female,CA,Asthma,Pulmonolgy,Cigna,2342
+P0561,Nancy,Taylor,43.0,male,IL,Depresion,Psychiatri,Aetna,1489
+P0562,Amy,Anderson,34.0,fEmale,TX,Arthritis,Orthopedics,Aetna,3977
+P0563,Brandon,Peterson,999.0,Female,CA,Diabetis,Genral Practice,Medicare,50
+P0564,Steven,Chavez,55.0,Male,TX,Lupus,Rheumatolgy,Aetna,2533
+P0565,Amy,Ruiz,39.0,Female,NY,Bronchtis,Pulmonology,BlueCross,2267
+P0566,Mark,Rogers,55.0,Male,FL,Hyper tension,Genral Practice,BlueCross,621
+P0567,Scott,Williams,72.0,fEmale,TN,GERD,Gen Practice,Medicare,268
+P0568,Charles,Scott,87.0,male,NY,Psoriasiss,Dermatology,Medicare,1185
+P0569,Amy,Flores,89.0,mALE,WI,Arthrits,Genral Practice,Medicare,664
+P0570,Matthew,Hill,20.0,Male,PA,Eczema,Derm,Cigna,1672
+P0571,Larry,Smith,68.0,Male,MI,Migraines,Neurology,Medicare,2741
+P0572,Laura,Bailey,77.0,Male,IL,Soriasis,Dermatology,Medicare,1259
+P0573,Patricia,James,64.0,male,MI,Hypertension,General  Practice,Medicare,364
+P0574,Kathleen,Kelly,89.0,female,NY,Asthma,Genral Practice,Medicare,251
+P0575,Alexander,Richardson,35.0,fEmale,CA,Joint  Pain,Orthopedic,Aetna,4050
+P0576,Karen,Gutierrez,31.0,fEmale,NY,Hyper thyroidism,Endocrinology,Cigna,3249
+P0577,Nicholas,Lee,58.0,Female,GA,Arthritiss,Rheumatology,Aetna,3803
+P0578,Benjamin,Ramirez,-76.0,mALE,AZ,Hypertnsion,Genral Practice,BlueCross,527
+P0579,Paul,Cox,49.0,mALE,CA,HyperTension,Cardiolgy,UnitedHealth,3096
+P0580,Jack,Bennett,59.0,mALE,PA,I.B.S,Gastroenterolgy,Cigna,2178
+P0581,Janet,Wood,18.0,female,CA,CAD,Cardio,BlueCross,3653
+P0582,Rachel,Hughes,53.0,male,MA,HyperTension,Gen Practice,UnitedHealth,547
+P0583,Nancy,Hall,-52.0,female,MI,Diabetes,General Practice,Aetna,358
+P0584,Mary,Murphy,76.0,male,CA,Arthrits,Orthopedics,Medicare,4999
+P0585,Kimberly,Garcia,32.0,Male,NC,Arthrits,Orthopedics,Cigna,2702
+P0586,Angela,Bailey,46.0,female,CA,Anxiety,Psychiatry,Cigna,1514
+P0587,Anthony,Anderson,21.0,mALE,FL,Psoriasiss,Dermatolog,Cigna,1035
+P0588,Helen,Ruiz,29.0,female,VA,COPD,Pulm,Cigna,1782
+P0589,Maria,Adams,42.0,Male,CO,Depressionn,Psychiatri,Cigna,50
+P0590,Matthew,Allen,34.0,female,OH,Anxietty,Psych,BlueCross,1025
+P0591,Jessica,White,999.0,male,TX,Depression,Psych iatry,Medicare,704
+P0592,Sandra,Hughes,58.0,female,WA,Psoriasiss,Derm,Aetna,1137
+P0593,Patrick,Lee,39.0,female,PA,Coronary Artery Diseas,Cardio,Aetna,3588
+P0594,Catherine,Morgan,46.0,male,MN,Depression,Psych iatry,BlueCross,1152
+P0595,Lisa,Alvarez,35.0,female,CO,Hypertnsion,Cardiology,BlueCross,3008
+P0596,Charles,Lopez,53.0,mALE,VA,Arthrits,Rheumatolog,BlueCross,2537
+P0597,Thomas,Alvarez,58.0,fEmale,CA,Diabets,Endocrinolog,UnitedHealth,2632
+P0598,Paul,Watson,62.0,male,CO,Anxeity,Psych,Medicare,794
+P0599,Barbara,Torres,20.0,female,IL,COPD,Pulmonolgy,Aetna,2658
+P0600,Donna,Richardson,34.0,mALE,NJ,Hyperthyroidsm,Endocrinolog,UnitedHealth,1923
+P0601,Joshua,Brown,54.0,mALE,TX,HyperTension,Cardiology,Aetna,4391
+P0602,Elizabeth,Reyes,40.0,fEmale,IL,Hypothyroidism,Endocrinolog,UnitedHealth,2343
+P0603,Anna,Miller,64.0,Male,MI,Coronary Artery Diseas,Cardiolog,Medicare,4999
+P0604,Barbara,Moore,66.0,Female,CA,HyperTension,Gen Practice,Medicare,449
+P0605,Amanda,Harris,62.0,Female,PA,COPD,Pulmonolog,Medicare,1585
+P0606,Gregory,Hall,85.0,fEmale,MI,Psoriasiss,Dermatology,Medicare,2033
+P0607,Thomas,Hill,88.0,Female,WA,Osteoporsis,Orthopedics,Medicare,4837
+P0608,Gary,Phillips,-76.0,female,MI,GERD,General  Practice,BlueCross,707
+P0609,Amy,King,77.0,Male,PA,Hypothyroidism,Endocrinlogy,Medicare,2068
+P0610,Benjamin,Moore,54.0,Female,PA,Epilepsy,Neuro,BlueCross,3730
+P0611,Linda,Anderson,150.0,Female,WI,Eczemaa,Derm,Medicare,663
+P0612,Sandra,Young,0.0,male,FL,Diabets,Endocrinolog,Aetna,1800
+P0613,Stephanie,Gutierrez,49.0,female,OH,Depressionn,Psych,Cigna,1025
+P0614,Brenda,Ward,20.0,mALE,MI,Depresion,Psych,Cigna,630
+P0615,Laura,Wilson,51.0,mALE,AZ,Arthrits,Rheum,UnitedHealth,2393
+P0616,Rachel,Morales,84.0,female,CA,G E R D,GI,Medicare,1210
+P0617,Nancy,Cook,20.0,Male,NJ,Hypertension,General  Practice,Aetna,626
+P0618,Steven,Bennett,32.0,mALE,OR,Anxeity,Psychiatri,BlueCross,1562
+P0619,Debra,Rodriguez,90.0,Male,WA,Arthritiss,Orthopedic,Medicare,3758
+P0620,Deborah,Myers,23.0,Female,MI,Anxietty,Psychiatry,Cigna,50
+P0621,Kimberly,Ward,56.0,fEmale,CA,Hyper thyroidism,Endocrinology,UnitedHealth,1813
+P0622,Donald,Ramos,32.0,Female,VA,Diabets,Gen Practice,Cigna,965
+P0623,Sandra,Cooper,48.0,Male,CA,Osteoperosis,Orthopedcis,Cigna,3565
+P0624,Nicole,Clark,86.0,fEmale,CA,Hypo thyroidism,Endo,Medicare,2181
+P0625,Shirley,Davis,61.0,male,FL,Diabetis,General  Practice,Medicare,696
+P0626,Susan,Harris,34.0,male,TX,Gerd,Gastroenterolgy,BlueCross,1857
+P0627,Heather,Evans,65.0,Male,TX,Arrhythmiaa,Cardiology,Medicare,3382
+P0628,Gregory,Walker,29.0,mALE,NJ,G E R D,Gastro enterology,BlueCross,2147
+P0629,Barbara,Gomez,19.0,female,IL,COPD,Pulmonology,UnitedHealth,2512
+P0630,Amanda,Lewis,28.0,male,IL,Asthma,Pulmonology,UnitedHealth,3393
+P0631,Thomas,Flores,20.0,fEmale,NC,G E R D,Gen Practice,UnitedHealth,658
+P0632,Kathleen,Flores,150.0,Female,OH,Arthrits,General  Practice,Medicare,930
+P0633,Alexander,Ruiz,-76.0,mALE,NC,Hyper tension,Genral Practice,Cigna,490
+P0634,Scott,Ortiz,35.0,Female,TX,Hyper thyroidism,Endocrinology,Aetna,1576
+P0635,Lisa,White,31.0,female,NY,Hypothyroidism,Endocrinlogy,Cigna,1899
+P0636,Jack,Cox,51.0,Female,IL,Psoriasiss,Dermatology,UnitedHealth,1682
+P0637,Heather,Patel,44.0,Male,FL,Bronchtis,Pulm,Aetna,1015
+P0638,Barbara,Ramos,64.0,Male,NJ,Hyperthyroidism,Endo,Medicare,1894
+P0639,Ruth,Martinez,34.0,Male,OR,Epilepsyy,Neurolog,BlueCross,1071
+P0640,Anna,Reyes,80.0,mALE,IL,Asthma,Genral Practice,Medicare,671
+P0641,Michelle,Edwards,80.0,Female,IL,Diabetis,Endocrinolog,Medicare,2632
+P0642,Kenneth,Morales,88.0,female,AZ,Hypertension,Cardiolog,Medicare,3240
+P0643,Andrew,Robinson,61.0,Female,MA,G E R D,General  Practice,Medicare,233
+P0644,Helen,Patel,67.0,fEmale,GA,Diabetis,Endocrinolog,Medicare,2584
+P0645,Benjamin,Gonzalez,20.0,female,CO,Arrythmia,Cardiology,Aetna,4348
+P0646,Donald,Richardson,30.0,Female,CA,Eczema,Dermatolgy,BlueCross,1805
+P0647,Amy,White,71.0,female,AZ,Coronary Artery Disease,Cardio,Medicare,3985
+P0648,Thomas,Nelson,44.0,Female,AZ,Lupuss,Rheumatolog,Aetna,2322
+P0649,Jacob,Martin,26.0,Male,CA,Hyper tension,Cardiology,Cigna,3496
+P0650,Emily,James,38.0,female,FL,Epilipsy,Neurology,BlueCross,1294
+P0651,Gregory,Green,26.0,Male,WI,Psoriasiss,Dermatolog,BlueCross,1253
+P0652,Maria,Richardson,20.0,Male,MN,Migrane,Neurology,Cigna,3662
+P0653,Frank,Castillo,76.0,female,NJ,Arthritiss,Rheumatolgy,Medicare,3209
+P0654,Gary,Ortiz,41.0,female,CA,Lupus,Rheum,UnitedHealth,3158
+P0655,Carol,Wilson,48.0,fEmale,MI,Psoriasiss,Dermatolgy,BlueCross,1400
+P0656,David,Anderson,81.0,fEmale,TX,Astma,Pulmonolgy,Medicare,2520
+P0657,Gregory,White,25.0,fEmale,TX,Osteoporsis,Ortho,Aetna,3130
+P0658,Jennifer,Morris,20.0,Female,FL,Hyper tension,Genral Practice,BlueCross,647
+P0659,Brenda,Murphy,20.0,mALE,MA,Diabetes,Genral Practice,UnitedHealth,88
+P0660,Benjamin,Price,40.0,mALE,TX,Arrhythmia,Cardiolgy,Cigna,3375
+P0661,Helen,Thomas,24.0,Male,NY,Hypertension,Gen Practice,Cigna,257
+P0662,Samantha,Ruiz,19.0,Male,VA,Hyper tension,Cardiology,Cigna,3184
+P0663,Eric,Nelson,90.0,Male,OH,Depressionn,Psych iatry,Medicare,964
+P0664,George,Thomas,69.0,male,MI,Diabetis,Genral Practice,Medicare,758
+P0665,Joseph,Hughes,64.0,male,NC,Asthma,Gen Practice,Medicare,541
+P0666,Ashley,Evans,77.0,Female,MA,Diabets,Endocrinlogy,Medicare,1150
+P0667,Frank,Moore,45.0,fEmale,GA,Depression,Psychiatry,Aetna,1025
+P0668,James,Jimenez,46.0,female,CA,Eczma,Dermatology,Cigna,791
+P0669,Michelle,Brown,87.0,fEmale,MN,Anxiety,Psych iatry,Medicare,189
+P0670,Justin,Scott,59.0,male,TN,Anxiety,Psych iatry,UnitedHealth,998
+P0671,Benjamin,Robinson,22.0,Female,NY,Coronary Artery Diseas,Cardiology,UnitedHealth,3200
+P0672,Jack,Williams,67.0,male,MA,Coronary Artery Disease,Cardiology,Medicare,1492
+P0673,Kathleen,Chavez,67.0,Male,AZ,Bronchtis,Pulm,Medicare,2245
+P0674,Linda,Chavez,65.0,Male,CA,Gerd,Genral Practice,Medicare,842
+P0675,Patricia,Roberts,79.0,male,CA,Eczemaa,Dermatolog,Medicare,871
+P0676,Samuel,Reed,40.0,male,MA,Arrhythmia,Cardiology,BlueCross,4159
+P0677,Edward,Morgan,90.0,female,NJ,Depression,Psychiatri,Medicare,888
+P0678,Samuel,Thomas,22.0,Female,FL,Gerd,General Practice,UnitedHealth,1007
+P0679,Sarah,Hernandez,31.0,female,NC,Depressionn,Psych iatry,Aetna,1457
+P0680,Mark,Evans,85.0,mALE,OR,HyperTension,Cardiolgy,Medicare,3216
+P0681,Edward,Evans,0.0,male,MN,Migraines,Neurology,Aetna,4042
+P0682,Mary,White,74.0,Male,CA,GERD,Genral Practice,Medicare,777
+P0683,Melissa,Chavez,77.0,mALE,NY,Lupas,Rheum,Medicare,1747
+P0684,Catherine,Peterson,37.0,fEmale,TX,HyperTension,Cardio,BlueCross,4187
+P0685,Alexander,Ruiz,35.0,Male,FL,Bronchitiss,Pulmonolog,BlueCross,2015
+P0686,Alexander,Taylor,87.0,Female,TX,Hyperthyroidsm,Endocrinlogy,Medicare,1758
+P0687,Sharon,Harris,38.0,male,FL,Eczemaa,Dermatolgy,BlueCross,1651
+P0688,Jennifer,James,28.0,fEmale,PA,Migrane,Neurolog,UnitedHealth,2154
+P0689,Cynthia,Hall,86.0,mALE,NY,Eczema,Dermatology,Medicare,1255
+P0690,Pamela,Smith,52.0,male,FL,Asthmaa,General Practice,BlueCross,846
+P0691,Ashley,Martin,86.0,male,NJ,Eczemaa,Derm,Medicare,1661
+P0692,William,Torres,88.0,male,NJ,Depresion,Psychiatry,Medicare,321
+P0693,Jonathan,Nelson,28.0,Male,FL,Lupus,Rheumatolgy,Cigna,1187
+P0694,Amanda,Clark,71.0,female,FL,Arthritiss,Rheumatolog,Medicare,3296
+P0695,Larry,Hernandez,76.0,Male,MN,CAD,Cardiolog,Medicare,3246
+P0696,Brian,Howard,38.0,mALE,CA,Jiont Pain,Orthopedic,Cigna,3394
+P0697,Nicole,Roberts,43.0,Male,IL,Arthritiss,Orthopedics,Cigna,3117
+P0698,Steven,Garcia,54.0,male,CA,Diabets,Endocrinology,BlueCross,1344
+P0699,Edward,Mitchell,35.0,fEmale,OR,Astma,Gen Practice,UnitedHealth,230
+P0700,Amanda,Harris,28.0,Male,NY,Migraines,Neurology,UnitedHealth,4646
+P0701,Ashley,Flores,33.0,mALE,NY,Arthrits,Rheumatolgy,Cigna,2858
+P0702,Stephanie,White,21.0,fEmale,WI,Anxietty,Psych iatry,Aetna,1016
+P0703,Justin,Nelson,74.0,female,CO,Diabets,Genral Practice,Medicare,890
+P0704,Nancy,Garcia,42.0,female,NJ,Asthma,Genral Practice,Aetna,901
+P0705,Kimberly,Anderson,54.0,Female,MA,Diabets,Endocrinology,BlueCross,2089
+P0706,Rebecca,Gomez,74.0,Female,TX,Asthmaa,General  Practice,Medicare,467
+P0707,Ronald,Kim,53.0,Female,WI,Migraine,Neurolog,BlueCross,3520
+P0708,Donna,Murphy,76.0,Male,CO,Diabets,General  Practice,Medicare,492
+P0709,Gregory,Gomez,22.0,female,TX,Astma,General Practice,Cigna,571
+P0710,Joshua,Lee,47.0,mALE,TX,Eczma,Dermatology,Aetna,1892
+P0711,Steven,Baker,58.0,fEmale,IL,Bronchtis,Pulm,Aetna,2173
+P0712,Ruth,Allen,31.0,Male,GA,Epilipsy,Neurology,Aetna,3475
+P0713,Larry,Adams,43.0,mALE,IL,Asthmaa,Pulmonolgy,BlueCross,2420
+P0714,William,Morgan,60.0,fEmale,MN,G E R D,Gastroenterology,BlueCross,1972
+P0715,Larry,Hernandez,66.0,fEmale,NJ,COPD,Pulmonology,Medicare,2872
+P0716,John,Campbell,83.0,female,CA,G E R D,General  Practice,Medicare,612
+P0717,Jeffrey,Taylor,20.0,male,WI,COPD,Pulm,UnitedHealth,3053
+P0718,Justin,Allen,0.0,fEmale,IL,Hyper tension,General Practice,Aetna,866
+P0719,Edward,Sanders,37.0,male,MI,GERD,Genral Practice,UnitedHealth,529
+P0720,Carolyn,Foster,27.0,fEmale,CO,Joint  Pain,Ortho,UnitedHealth,3733
+P0721,Maria,Hernandez,54.0,fEmale,PA,I.B.S,Gastroenterology,Aetna,1151
+P0722,Jeffrey,Richardson,-21.0,Male,CA,Hypothyroidism,Endocrinology,Aetna,1549
+P0723,Donald,Hill,22.0,female,MI,Depressionn,Psychiatri,UnitedHealth,1018
+P0724,Nicole,Lopez,53.0,Female,MN,Hyperthyroidism,Endocrinology,Aetna,2865
+P0725,Richard,White,22.0,female,GA,Soriasis,Derm,BlueCross,1000
+P0726,Kathleen,Miller,49.0,Male,OR,G E R D,Gastroenterology,Cigna,982
+P0727,Joseph,Roberts,47.0,male,NC,I.B.S,Gastro enterology,UnitedHealth,1323
+P0728,Carolyn,Taylor,65.0,Female,TX,Epilipsy,Neurolgy,Medicare,3105
+P0729,Susan,Ward,35.0,Male,CA,Hypertension,Gen Practice,Cigna,303
+P0730,Donald,Long,68.0,Male,IL,Eczema,Dermatolog,Medicare,1339
+P0731,Carolyn,Morales,42.0,male,GA,Diabetes,Genral Practice,UnitedHealth,913
+P0732,Mark,Reed,78.0,Male,CA,Hypothyroidsm,Endocrinolog,Medicare,1481
+P0733,Cynthia,Adams,75.0,fEmale,NY,Eczemaa,Dermatolgy,Medicare,1858
+P0734,Justin,Mendoza,999.0,mALE,TX,HyperTension,Cardiology,Medicare,3831
+P0735,Donald,Cook,29.0,mALE,FL,Arrythmia,Cardio,BlueCross,4371
+P0736,Samuel,Bennett,77.0,male,VA,Arthritis,Genral Practice,Medicare,656
+P0737,Rebecca,Anderson,55.0,Female,OR,Hypertnsion,Cardiolog,Cigna,3510
+P0738,Charles,Robinson,40.0,fEmale,MN,Arthrits,Genral Practice,Cigna,296
+P0739,Raymond,Chavez,999.0,female,FL,Arthritiss,Rheumatolog,Medicare,2298
+P0740,Carolyn,Nguyen,67.0,Female,TN,G E R D,Gastro enterology,Medicare,2095
+P0741,Steven,Mendoza,76.0,Female,TX,Anxiety,Psych,Medicare,2040
+P0742,Rebecca,Cook,71.0,fEmale,NC,Epilepsyy,Neurolgy,Medicare,2405
+P0743,Kimberly,Watson,39.0,mALE,OH,Astma,Pulm,Cigna,2193
+P0744,Stephanie,Gonzalez,56.0,female,TX,Gerd,General Practice,Cigna,1035
+P0745,Gary,Wilson,54.0,Female,NY,Lupuss,Rheumatolog,Aetna,2504
+P0746,Deborah,Hughes,27.0,fEmale,VA,Arrhythmia,Cardiolgy,BlueCross,2838
+P0747,Catherine,Lewis,77.0,female,NY,C.O.P.D,Pulmonolog,Medicare,2093
+P0748,Christopher,Evans,84.0,male,TN,Hypothyroidism,Endocrinolog,Medicare,1509
+P0749,Barbara,Rogers,19.0,female,MN,C.O.P.D,Pulmonology,UnitedHealth,2598
+P0750,Anthony,Adams,27.0,female,TX,C O P D,Pulmonolgy,BlueCross,1496
+P0751,Sarah,Kelly,69.0,mALE,OR,Hypothyroidsm,Endocrinolog,Medicare,1661
+P0752,Charles,Young,28.0,mALE,MI,Bronchitis,Pulmonolog,UnitedHealth,3050
+P0753,Eric,Evans,36.0,fEmale,AZ,Gerd,Genral Practice,Cigna,410
+P0754,Michael,Richardson,89.0,mALE,IL,Hyperthyroidsm,Endocrinlogy,Medicare,1800
+P0755,Brenda,Gutierrez,25.0,male,TN,Coronary Artery Diseas,Cardiology,BlueCross,2108
+P0756,Richard,Gutierrez,80.0,male,VA,Anxietty,Psychiatry,Medicare,813
+P0757,Jerry,Watson,29.0,fEmale,CA,Diabets,Endocrinology,Aetna,2228
+P0758,Anna,Gonzalez,75.0,Male,TX,Eczemaa,Derm,Medicare,1795
+P0759,Brian,Rodriguez,39.0,female,VA,Arrhythmia,Cardio,BlueCross,4100
+P0760,Sandra,Hall,23.0,male,MI,Arthritis,Rheumatology,Aetna,2884
+P0761,Sharon,Bailey,76.0,female,CA,Arthritis,Rheum,Medicare,2411
+P0762,Christopher,Jones,71.0,male,IL,Hyperthyroidism,Endocrinolog,Medicare,2671
+P0763,George,Phillips,56.0,Male,PA,Arthritis,Rheumatolgy,Aetna,3643
+P0764,Joseph,Castillo,89.0,fEmale,NY,Anxiety,Psychiatri,Medicare,560
+P0765,Thomas,Gonzalez,74.0,male,TX,Hypothyroidism,Endocrinolog,Medicare,2499
+P0766,Kenneth,Gomez,90.0,fEmale,VA,Arthrits,Rheumatolog,Medicare,1954
+P0767,Nicole,Garcia,49.0,male,PA,Gerd,General Practice,Aetna,465
+P0768,Amy,Sanders,40.0,female,CA,Arthrits,General Practice,BlueCross,936
+P0769,Scott,Brooks,54.0,Female,PA,Gerd,Genral Practice,Aetna,482
+P0770,Barbara,Moore,79.0,Male,NY,Osteoporsis,Orthopedics,Medicare,4428
+P0771,Emma,Ramos,18.0,fEmale,NY,Lupuss,Rheumatolog,BlueCross,3308
+P0772,Rebecca,Stewart,60.0,mALE,CA,Epilepsyy,Neurolog,Cigna,3225
+P0773,Alexander,Brooks,-21.0,female,CA,Anxiety,Psych,Aetna,325
+P0774,Betty,Jimenez,86.0,fEmale,CA,Hypothyroidism,Endocrinlogy,Medicare,1302
+P0775,Joshua,Martinez,59.0,male,NC,Hyper tension,Gen Practice,BlueCross,924
+P0776,Jacob,Ramos,30.0,female,CO,Bronchtis,Pulm,Cigna,2208
+P0777,Kathleen,Harris,39.0,female,NY,Depresion,Psychiatri,Cigna,427
+P0778,Rachel,Mendoza,24.0,mALE,WA,C.O.P.D,Pulmonolgy,Cigna,2520
+P0779,Larry,Nguyen,53.0,Male,CA,Diabetis,Endocrinolog,Cigna,2842
+P0780,Stephen,Hill,36.0,mALE,PA,Arrythmia,Cardio,Cigna,4011
+P0781,Joseph,Bennett,68.0,female,CA,Arrythmia,Cardiology,Medicare,3051
+P0782,Andrew,Green,38.0,male,IL,Psoriasiss,Derm,Aetna,1848
+P0783,Angela,Morales,54.0,female,CO,Eczema,Dermatolgy,BlueCross,1731
+P0784,Susan,Martin,43.0,Female,AZ,Diabetis,Genral Practice,Cigna,569
+P0785,Kathleen,Rodriguez,79.0,Female,TN,Anxeity,Psychiatry,Medicare,382
+P0786,Thomas,Jones,24.0,Male,OH,Arthritis,Orthopedics,Cigna,4950
+P0787,Pamela,Diaz,150.0,male,PA,Arthritiss,Rheumatolog,Medicare,2761
+P0788,Ryan,Morgan,39.0,male,TX,Arthritiss,Gen Practice,Cigna,50
+P0789,Charles,Morales,43.0,male,NC,Epilepsyy,Neuro,Aetna,2282
+P0790,Andrew,Walker,47.0,female,WI,Epilepsy,Neurolog,UnitedHealth,3865
+P0791,Lisa,Evans,27.0,mALE,CA,Arthritiss,General Practice,Aetna,1414
+P0792,Lisa,Bennett,58.0,mALE,VA,Eczma,Dermatolog,BlueCross,470
+P0793,Elizabeth,Parker,60.0,male,GA,Anxietty,Psychiatry,UnitedHealth,514
+P0794,Donald,Jimenez,68.0,Female,CA,Arthrits,Rheumatolog,Medicare,3148
+P0795,Maria,Rodriguez,32.0,Female,NY,Diabets,Genral Practice,Cigna,746
+P0796,William,Edwards,50.0,fEmale,NY,Eczemaa,Derm,BlueCross,119
+P0797,Nicole,Bennett,70.0,female,CA,Hypertension,General  Practice,Medicare,794
+P0798,Michelle,Wright,64.0,male,OH,Gerd,Gastroenterology,Medicare,1206
+P0799,Emma,Cook,46.0,Female,NC,Jiont Pain,Orthopedic,UnitedHealth,4142
+P0800,Stephanie,Hill,79.0,Male,NC,I.B.S,GI,Medicare,2791
+P0801,Nicholas,Robinson,66.0,fEmale,IL,Diabetis,Endo,Medicare,1323
+P0802,Jeffrey,Bailey,60.0,Male,PA,Asthma,Pulmonolgy,BlueCross,1273
+P0803,Brenda,White,76.0,Male,GA,Anxeity,Psych,Medicare,723
+P0804,James,Ruiz,31.0,fEmale,CA,Diabetes,Endocrinolog,Aetna,2222
+P0805,Raymond,Anderson,90.0,Female,OH,I.B.S,Gastro enterology,Medicare,2382
+P0806,Jennifer,Gutierrez,43.0,mALE,VA,Arthrits,Orthopedics,UnitedHealth,3409
+P0184,Frank,WALES,42.0,Male,TX,Joint  Pain,Ortho,Cigna,2988
+P0365,Bob,ng,,Male,CA,Bronchitiss,Pulmonolgy,UnitedHealth,2344
+P0594,Catherine,Morgan,46.0,male,MN,Depression,Psych iatry,BlueCross,1152
+P0711,Steven,Baker,58.0,fEmale,IL,Bronchtis,Pulm,Aetna,2173
+P0623,Sandra,Cooper,48.0,Male,CA,Osteoperosis,Orthopedcis,Cigna,3565
+P0666,Ashley,Evans,77.0,Female,MA,Diabets,Endocrinlogy,Medicare,1150
+P0314,Michelle,Johnson,20.0,fEmale,NC,Arthritis,Rheumatolgy,UnitedHealth,1740
+P0654,Gary,Ortiz,41.0,female,CA,Lupus,Rheum,UnitedHealth,3158
+P0367,AVA,Miller,41.0,Female,NC,Arthritis,General  Practice,Aetna,427
