@@ -1,7 +1,7 @@
 # Patient Churn Funnel Analysis
 This project performs data cleaning, funnel analysis, and exploratory data analysis utilizing patient churn data to identify drop-off points and bottlenecks based on the patient experience (from Website_Views to Total_Visits). It employs advanced Excel and SQL techniques to standardize data and analyze how patients are retained or lost through the different funnel stages.
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Active, In Progress]
 
 ___
 
